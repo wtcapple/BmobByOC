@@ -1,0 +1,3 @@
+target 'BmobSample' do
+pod 'BmobSDK','~>1.7.0'
+end
